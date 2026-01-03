@@ -1,0 +1,7 @@
+order_id,order_date,region,product,quantity,price
+1,2024-01-10,East,Laptop,1,800
+2,2024-01-12,West,Phone,2,500
+3,2024-02-05,East,Tablet,1,300
+4,2024-02-20,South,Chair,3,150
+5,2024-03-15,North,Desk,1,250
+6,2024-03-18,East,Laptop,2,800
